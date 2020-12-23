@@ -104,7 +104,7 @@
     {
       "id": 11,
       "name": "MessageComposerSpec.java",
-      "content": "package com.company.message;\r\n\r\n\r\n@Singleton\r\npublic class MessageComposerSpec implements AbstractMessageComposerSpec {\r\n    \r\n\r\n}"
+      "content": "package com.company.message;\r\n\r\n\r\n@Singleton\r\npublic class MessageComposerSpec implements AbstractMessageComposerSpec {\r \n    \r\n\r\n}"
     }
   ]
 }
